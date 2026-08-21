@@ -1,0 +1,138 @@
+ID,Name,Category,Institution_Category_Standardized,Member_of_European_University_alliance,url,NUTS2,NUTS2_Label,NUTS3,NUTS3_Label,Domain_Status
+PT-HEI-001,University of Lisbon (ULisboa),Public,University,Member of a European Universities Initiative alliance,www.ulisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-001-D01,University of Lisbon - Instituto Superior Tecnico,Public,University,Member of a European Universities Initiative alliance,tecnico.ulisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-001-D02,University of Lisbon - Faculty of Sciences,Public,University,Member of a European Universities Initiative alliance,fc.ul.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-001-D03,University of Lisbon - Faculty of Medicine,Public,University,Member of a European Universities Initiative alliance,medicina.ulisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-001-D04,University of Lisbon - Faculty of Law,Public,University,Member of a European Universities Initiative alliance,fd.ulisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-001-D05,University of Lisbon - Faculty of Arts and Humanities,Public,University,Member of a European Universities Initiative alliance,www.letras.ulisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-001-D06,University of Lisbon - School of Agriculture,Public,University,Member of a European Universities Initiative alliance,isa.ulisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-001-D07,University of Lisbon - Faculty of Veterinary Medicine,Public,University,Member of a European Universities Initiative alliance,fmv.ulisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-001-D08,"University of Lisbon - Nursing School (former ESEL, integrated by DL 83/2024)",Public,University,Member of a European Universities Initiative alliance,enfermagem.ulisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-002,University of Porto (UPorto),Public,University,Member of a European Universities Initiative alliance,www.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D01,University of Porto - Faculty of Engineering,Public,University,Member of a European Universities Initiative alliance,fe.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D02,University of Porto - Faculty of Sciences,Public,University,Member of a European Universities Initiative alliance,fc.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D03,University of Porto - Faculty of Medicine,Public,University,Member of a European Universities Initiative alliance,med.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D04,University of Porto - School of Economics and Management,Public,University,Member of a European Universities Initiative alliance,fep.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D05,University of Porto - Faculty of Arts and Humanities,Public,University,Member of a European Universities Initiative alliance,www.letras.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D06,University of Porto - Faculty of Law,Public,University,Member of a European Universities Initiative alliance,fd.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D07,University of Porto - Faculty of Psychology and Education Sciences,Public,University,Member of a European Universities Initiative alliance,fpce.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D08,University of Porto - ICBAS School of Medicine and Biomedical Sciences,Public,University,Member of a European Universities Initiative alliance,icbas.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D09,University of Porto - Faculty of Fine Arts,Public,University,Member of a European Universities Initiative alliance,fba.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D10,University of Porto - Faculty of Sport,Public,University,Member of a European Universities Initiative alliance,fade.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D11,University of Porto - Faculty of Pharmacy,Public,University,Member of a European Universities Initiative alliance,ff.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D12,University of Porto - Faculty of Nutrition and Food Sciences,Public,University,Member of a European Universities Initiative alliance,fcna.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D13,University of Porto - Faculty of Dental Medicine,Public,University,Member of a European Universities Initiative alliance,fmd.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D14,University of Porto - Rectory,Public,University,Member of a European Universities Initiative alliance,reit.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D15,University of Porto - Porto Business School,Public,University,Member of a European Universities Initiative alliance,pbs.up.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-002-D16,"University of Porto - Nursing School (former ESEP, integrated by DL 83/2024)",Public,University,Member of a European Universities Initiative alliance,www.esenf.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-003,University of Coimbra (UC),Public,University,Member of a European Universities Initiative alliance,www.uc.pt,PT19,Centro,PT192,Regiao de Coimbra,V
+PT-HEI-003-D01,"University of Coimbra - Nursing School (former ESEnfC, integrated by DL 83/2024)",Public,University,Member of a European Universities Initiative alliance,www.esenfc.pt,PT19,Centro,PT192,Regiao de Coimbra,V
+PT-HEI-004,University of Minho (UMinho),Public,University,Member of a European Universities Initiative alliance,www.uminho.pt,PT11,Norte,PT112,Cavado,V
+PT-HEI-005,NOVA University Lisbon (NOVA),Public,University,Member of a European Universities Initiative alliance,www.unl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-005-D01,NOVA University Lisbon - NOVA School of Science and Technology,Public,University,Member of a European Universities Initiative alliance,fct.unl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-005-D02,NOVA University Lisbon - Nova School of Business and Economics,Public,University,Member of a European Universities Initiative alliance,novasbe.unl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-005-D03,NOVA University Lisbon - School of Social Sciences and Humanities,Public,University,Member of a European Universities Initiative alliance,fcsh.unl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-005-D04,NOVA University Lisbon - NOVA Medical School,Public,University,Member of a European Universities Initiative alliance,nms.unl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-005-D05,NOVA University Lisbon - NOVA School of Law,Public,University,Member of a European Universities Initiative alliance,novalaw.unl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-005-D06,NOVA University Lisbon - National School of Public Health,Public,University,Member of a European Universities Initiative alliance,ensp.unl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-005-D07,NOVA University Lisbon - Information Management School,Public,University,Member of a European Universities Initiative alliance,novaims.unl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-006,University of Aveiro (UA),Public,University,Member of a European Universities Initiative alliance,www.ua.pt,PT19,Centro,PT191,Regiao de Aveiro,V
+PT-HEI-007,University of Evora (UEvora),Public,University,Member of a European Universities Initiative alliance,www.uevora.pt,PT1C,Alentejo,PT1C4,Alentejo Central,V
+PT-HEI-008,University of Algarve (UAlg),Public,University,Member of a European Universities Initiative alliance,www.ualg.pt,PT15,Algarve,PT150,Algarve,V
+PT-HEI-009,University of Beira Interior (UBI),Public,University,Not found in European Commission sources,www.ubi.pt,PT19,Centro,PT196,Beiras e Serra da Estrela,V
+PT-HEI-010,University of Tras-os-Montes and Alto Douro (UTAD),Public,University,Not found in European Commission sources,www.utad.pt,PT11,Norte,PT11D,Douro,V
+PT-HEI-011,University of Madeira (UMa),Public,University,Not found in European Commission sources,www.uma.pt,PT30,Regiao Autonoma da Madeira,PT300,Regiao Autonoma da Madeira,V
+PT-HEI-012,University of the Azores (UAc),Public,University,Not found in European Commission sources,www.uac.pt,PT20,Regiao Autonoma dos Acores,PT200,Regiao Autonoma dos Acores,V
+PT-HEI-013,ISCTE University Institute of Lisbon (ISCTE-IUL),Public,Non-integrated University Institute,Not found in European Commission sources,www.iscte-iul.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-014,Universidade Aberta (UAb),Public,University,Not found in European Commission sources,portal.uab.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-015,Polytechnic Institute of Leiria (IPLeiria),Public,Polytechnic Institute,Member of a European Universities Initiative alliance,www.ipleiria.pt,PT19,Centro,PT193,Regiao de Leiria,V
+PT-HEI-015-D01,Polytechnic Institute of Leiria - School of Technology and Management,Public,Polytechnic Institute,Member of a European Universities Initiative alliance,estg.ipleiria.pt,PT19,Centro,PT193,Regiao de Leiria,V
+PT-HEI-015-D02,Polytechnic Institute of Leiria - School of Education and Social Sciences,Public,Polytechnic Institute,Member of a European Universities Initiative alliance,esecs.ipleiria.pt,PT19,Centro,PT193,Regiao de Leiria,V
+PT-HEI-015-D03,Polytechnic Institute of Leiria - School of Health Sciences,Public,Polytechnic Institute,Member of a European Universities Initiative alliance,esslei.ipleiria.pt,PT19,Centro,PT193,Regiao de Leiria,V
+PT-HEI-015-D04,Polytechnic Institute of Leiria - School of Arts and Design,Public,Polytechnic Institute,Member of a European Universities Initiative alliance,esad.ipleiria.pt,PT19,Centro,PT193,Regiao de Leiria,V
+PT-HEI-015-D05,Polytechnic Institute of Leiria - School of Tourism and Maritime Technology,Public,Polytechnic Institute,Member of a European Universities Initiative alliance,estm.ipleiria.pt,PT19,Centro,PT193,Regiao de Leiria,V
+PT-HEI-016,Polytechnic Institute of Porto (IPP),Public,Polytechnic Institute,Not found in European Commission sources,www.ipp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-016-D01,Polytechnic Institute of Porto - School of Engineering,Public,Polytechnic Institute,Not found in European Commission sources,isep.ipp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-016-D02,Polytechnic Institute of Porto - School of Accounting and Administration,Public,Polytechnic Institute,Not found in European Commission sources,iscap.ipp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-016-D03,Polytechnic Institute of Porto - School of Education,Public,Polytechnic Institute,Not found in European Commission sources,ese.ipp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-016-D04,Polytechnic Institute of Porto - School of Health,Public,Polytechnic Institute,Not found in European Commission sources,ess.ipp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-016-D05,Polytechnic Institute of Porto - School of Music and Performing Arts,Public,Polytechnic Institute,Not found in European Commission sources,esmae.ipp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-016-D06,Polytechnic Institute of Porto - School of Media Arts and Design,Public,Polytechnic Institute,Not found in European Commission sources,esmad.ipp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,K
+PT-HEI-016-D07,Polytechnic Institute of Porto - School of Hospitality and Tourism,Public,Polytechnic Institute,Not found in European Commission sources,esht.ipp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,U
+PT-HEI-017,Polytechnic Institute of Beja (IPBeja),Public,Polytechnic Institute,Not found in European Commission sources,www.ipbeja.pt,PT1C,Alentejo,PT1C2,Baixo Alentejo,V
+PT-HEI-018,Polytechnic Institute of Braganca (IPB),Public,Polytechnic Institute,Not found in European Commission sources,www.ipb.pt,PT11,Norte,PT11E,Terras de Tras-os-Montes,V
+PT-HEI-019,Polytechnic Institute of Castelo Branco (IPCB),Public,Polytechnic Institute,Not found in European Commission sources,www.ipcb.pt,PT19,Centro,PT195,Beira Baixa,V
+PT-HEI-020,Polytechnic Institute of Cavado and Ave (IPCA),Public,Polytechnic Institute,Member of a European Universities Initiative alliance,www.ipca.pt,PT11,Norte,PT112,Cavado,V
+PT-HEI-021,Polytechnic Institute of Coimbra (IPC),Public,Polytechnic Institute,Not found in European Commission sources,www.ipc.pt,PT19,Centro,PT192,Regiao de Coimbra,V
+PT-HEI-022,Polytechnic Institute of Guarda (IPG),Public,Polytechnic Institute,Not found in European Commission sources,www.ipg.pt,PT19,Centro,PT196,Beiras e Serra da Estrela,V
+PT-HEI-023,Polytechnic Institute of Lisbon (IPL),Public,Polytechnic Institute,Not found in European Commission sources,www.ipl.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-024,Polytechnic Institute of Portalegre (IPPortalegre),Public,Polytechnic Institute,Not found in European Commission sources,www.ipportalegre.pt,PT1C,Alentejo,PT1C3,Alto Alentejo,V
+PT-HEI-025,Polytechnic Institute of Santarem (IPSantarem),Public,Polytechnic Institute,Not found in European Commission sources,www.ipsantarem.pt,PT1D,Oeste e Vale do Tejo,PT1D3,Leziria do Tejo,V
+PT-HEI-026,Polytechnic Institute of Setubal (IPS),Public,Polytechnic Institute,Member of a European Universities Initiative alliance,www.ips.pt,PT1B,Peninsula de Setubal,PT1B0,Peninsula de Setubal,V
+PT-HEI-027,Polytechnic Institute of Tomar (IPT),Public,Polytechnic Institute,Not found in European Commission sources,www.ipt.pt,PT1D,Oeste e Vale do Tejo,PT1D2,Medio Tejo,V
+PT-HEI-028,Polytechnic Institute of Viana do Castelo (IPVC),Public,Polytechnic Institute,Not found in European Commission sources,www.ipvc.pt,PT11,Norte,PT111,Alto Minho,V
+PT-HEI-029,Polytechnic Institute of Viseu (IPV),Public,Polytechnic Institute,Not found in European Commission sources,www.ipv.pt,PT19,Centro,PT194,Viseu Dao Lafoes,V
+PT-HEI-030,Estoril Higher Institute for Tourism and Hotel Studies (ESHTE),Public,Non-integrated Polytechnic School,Not found in European Commission sources,www.eshte.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-031,Nautical School Infante D. Henrique (ENIDH),Public,Non-integrated Polytechnic School,Not found in European Commission sources,www.enautica.pt,PT1B,Peninsula de Setubal,PT1B0,Peninsula de Setubal,V
+PT-HEI-032,Military University Institute (IUM),Public (Military/Police),Military and Police Higher Education Institution,Not found in European Commission sources,www.ium.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-033,Higher Institute of Police Sciences and Internal Security (ISCPSI),Public (Military/Police),Military and Police Higher Education Institution,Not found in European Commission sources,www.iscpsi.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-034,Catholic University of Portugal (UCP),Concordatarian,University,Not found in European Commission sources,www.ucp.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-035,Autonomous University of Lisbon Luis de Camoes (UAL),Private,University,Not found in European Commission sources,www.autonoma.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-036,Lusiada University (ULusiada),Cooperative,University,Not found in European Commission sources,www.lis.ulusiada.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-037,Lusofona University (ULusofona),Cooperative,University,Member of a European Universities Initiative alliance,www.ulusofona.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-038,European University (Universidade Europeia),Private,University,Not found in European Commission sources,www.europeia.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-039,Fernando Pessoa University (UFP),Private,University,Not found in European Commission sources,www.ufp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-040,Portucalense University Infante D. Henrique (UPT),Cooperative,University,Not found in European Commission sources,www.upt.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-041,University of Maia (UMAIA),Cooperative,University,Not found in European Commission sources,www.umaia.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-042,"ISPA University Institute of Psychological, Social and Life Sciences (ISPA-IU)",Private,Non-integrated University Institute,Not found in European Commission sources,www.ispa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-043,Atlantica University Institute,Private,Non-integrated University Institute,Not found in European Commission sources,www.uatlantica.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-044,Higher Institute of Management (ISG),Private,Non-integrated University Institute,Not found in European Commission sources,www.isg.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-045,Egas Moniz University Institute (IUEM),Private,Non-integrated University Institute,Not found in European Commission sources,www.egasmoniz.edu.pt,PT1B,Peninsula de Setubal,PT1B0,Peninsula de Setubal,K
+PT-HEI-046,University Institute of Health Sciences (IUCS-CESPU),Cooperative,Non-integrated University Institute,Not found in European Commission sources,www.cespu.pt,PT11,Norte,PT11C,Tamega e Sousa,V
+PT-HEI-047,Vasco da Gama University School (EUVG),Private,Non-integrated University Institute,Not found in European Commission sources,www.euvg.pt,PT19,Centro,PT192,Regiao de Coimbra,K
+PT-HEI-048,Higher Artistic School of Porto (ESAP),Cooperative,Non-integrated University Institute,Not found in European Commission sources,www.esap.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,D
+PT-HEI-049,Miguel Torga Higher Institute (ISMT),Private,Non-integrated University Institute,Not found in European Commission sources,www.ismt.pt,PT19,Centro,PT192,Regiao de Coimbra,K
+PT-HEI-050,Manuel Teixeira Gomes Higher Institute (ISMAT),Private,Non-integrated University Institute,Not found in European Commission sources,www.ismat.pt,PT15,Algarve,PT150,Algarve,K
+PT-HEI-051,Higher Institute of Social Work of Porto (ISSSP),Private,Non-integrated University Institute,Not found in European Commission sources,www.isssp.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,K
+PT-HEI-052,Higher Institute of Intercultural and Transdisciplinary Studies of Almada (ISEIT Almada),Private,Non-integrated University Institute,Not found in European Commission sources,www.ipiaget.org,PT1B,Peninsula de Setubal,PT1B0,Peninsula de Setubal,V
+PT-HEI-053,Higher Institute of Intercultural and Transdisciplinary Studies of Viseu (ISEIT Viseu),Private,Non-integrated University Institute,Not found in European Commission sources,www.ipiaget.org,PT19,Centro,PT194,Viseu Dao Lafoes,V
+PT-HEI-054,Polytechnic Institute of Maia (IPMAIA),Cooperative,Polytechnic Institute,Not found in European Commission sources,www.ipmaia.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-055,Lusofonia Polytechnic Institute (IPLuso),Cooperative,Polytechnic Institute,Not found in European Commission sources,www.ipluso.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-056,Polytechnic Institute of Health of the North (IPSN-CESPU),Cooperative,Polytechnic Institute,Not found in European Commission sources,www.cespu.pt,PT11,Norte,PT11C,Tamega e Sousa,V
+PT-HEI-057,Jean Piaget Polytechnic Institute of the North,Private,Polytechnic Institute,Not found in European Commission sources,www.ipiaget.org,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-058,Jean Piaget Polytechnic Institute of the South,Private,Polytechnic Institute,Not found in European Commission sources,www.ipiaget.org,PT1B,Peninsula de Setubal,PT1B0,Peninsula de Setubal,V
+PT-HEI-059,ISLA Polytechnic Institute of Management and Technology (ISLA Gaia),Private,Polytechnic Institute,Not found in European Commission sources,www.islagaia.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,K
+PT-HEI-060,ISLA Santarem Polytechnic Institute,Private,Polytechnic Institute,Not found in European Commission sources,www.islasantarem.pt,PT1D,Oeste e Vale do Tejo,PT1D3,Leziria do Tejo,U
+PT-HEI-061,Gaya Higher Polytechnic Institute (ISPGaya),Cooperative,Polytechnic Institute,Not found in European Commission sources,www.ispgaya.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,K
+PT-HEI-062,Portuguese Institute of Marketing Administration of Lisbon (IPAM Lisboa),Private,Polytechnic Institute,Not found in European Commission sources,www.ipam.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-063,Portuguese Institute of Marketing Administration of Porto (IPAM Porto),Private,Polytechnic Institute,Not found in European Commission sources,www.ipam.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-064,National Higher Academy of Orchestra (ANSO),Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.metropolitana.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,D
+PT-HEI-065,Higher School of Arts and Design (ESAD),Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.esad.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,D
+PT-HEI-066,Higher School of Real Estate Activities (ESAI),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.esai.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,D
+PT-HEI-067,Higher School of Education of Fafe,Private,Non-integrated Polytechnic School,Not found in European Commission sources,iees.pt,PT11,Norte,PT119,Ave,V
+PT-HEI-068,Higher School of Technologies of Fafe,Private,Non-integrated Polytechnic School,Not found in European Commission sources,iees.pt,PT11,Norte,PT119,Ave,V
+PT-HEI-069,Joao de Deus Higher School of Education,Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.joaodedeus.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,D
+PT-HEI-070,Paula Frassinetti Higher School of Education (ESEPF),Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.esepf.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,D
+PT-HEI-071,Sao Jose de Cluny Nursing School,Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.esesjcluny.pt,PT30,Regiao Autonoma da Madeira,PT300,Regiao Autonoma da Madeira,D
+PT-HEI-072,Sao Francisco das Misericordias Nursing School,Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,esesfm.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,D
+PT-HEI-073,Atlantico Higher School of Business,Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.abs.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,D
+PT-HEI-074,Atlantica Higher School of Health,Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.essatla.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,D
+PT-HEI-075,"Portuguese Red Cross Higher School of Health, Alto Tamega",Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.esscvpaltotamega.pt,PT11,Norte,PT11B,Alto Tamega e Barroso,D
+PT-HEI-076,"Portuguese Red Cross Higher School of Health, Lisbon",Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.esscvp.eu,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,D
+PT-HEI-077,Portuguese Red Cross Higher School of Health of the North,Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.essnortecvp.pt,PT19,Centro,PT191,Regiao de Aveiro,U
+PT-HEI-078,Fernando Pessoa Foundation Higher School of Health,Private,Non-integrated Polytechnic School,Not found in European Commission sources,ess.fernandopessoa.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,D
+PT-HEI-079,Santa Maria Higher School of Health,Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.santamariasaude.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,D
+PT-HEI-080,Alcoitao Higher School of Health,Cooperative,Non-integrated Polytechnic School,Not found in European Commission sources,www.essa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,D
+PT-HEI-081,Egas Moniz Higher School of Health,Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.egasmoniz.edu.pt,PT1B,Peninsula de Setubal,PT1B0,Peninsula de Setubal,K
+PT-HEI-082,D. Dinis Higher Institute (ISDOM),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.isdom.pt,PT19,Centro,PT193,Regiao de Leiria,U
+PT-HEI-083,Higher Institute of Administration and Management (ISAG),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.isag.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,K
+PT-HEI-084,Higher Institute of Administration and Languages (ISAL),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.isal.pt,PT30,Regiao Autonoma da Madeira,PT300,Regiao Autonoma da Madeira,U
+PT-HEI-085,Higher Institute of Information Science and Administration (ISCIA),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.iscia.edu.pt,PT19,Centro,PT191,Regiao de Aveiro,U
+PT-HEI-086,Higher Institute of Educational Sciences of Douro (ISCE Douro),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.iscedouro.pt,PT11,Norte,PT11C,Tamega e Sousa,U
+PT-HEI-087,Higher Institute of Business Sciences and Tourism (ISCET),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.iscet.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,K
+PT-HEI-088,Higher Institute of Entre Douro e Vouga (ISVOUGA),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.isvouga.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,K
+PT-HEI-089,Higher Institute of Advanced Technologies of Lisbon (ISTEC Lisboa),Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.istec.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,V
+PT-HEI-090,Higher Institute of Advanced Technologies of Porto (ISTEC Porto),Private,Non-integrated Polytechnic School,Not found in European Commission sources,istec-porto.pt,PT11,Norte,PT11A,Area Metropolitana do Porto,V
+PT-HEI-091,ISAVE Higher Institute of Health,Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.isave.pt,PT11,Norte,PT112,Cavado,K
+PT-HEI-092,ISCE Higher Institute of Lisbon and Vale do Tejo,Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.isce.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,U
+PT-HEI-093,ISEC Lisboa Higher Institute of Education and Sciences,Private,Non-integrated Polytechnic School,Not found in European Commission sources,www.iseclisboa.pt,PT1A,Grande Lisboa,PT1A0,Grande Lisboa,K
